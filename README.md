@@ -3,7 +3,7 @@
 **AI-first public grievance redressal — turning public grievances into public solutions.**
 
 > AI First Hackathon (Summer School '26) · I3C – IIT Jammu × Techible
-> Track: **AI for Bharat — Governance & Social Impact** · Team **Minchu Badmosh**
+> Track: **AI for Bharat — Governance & Social Impact** · Team **Minchu Badmosh** (Omeir, Mishika, Xena)
 
 Samadhan-Agent is an autonomous, multi-modal interface that digitizes, interprets,
 and manages public grievances from **submission to resolution**. A citizen describes
